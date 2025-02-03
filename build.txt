@@ -1,0 +1,6 @@
+displayName = DBZGoatLib2
+author = Vyklade, G.
+version = 1.0.0
+includeSource = false
+hideResources = true
+homepage = https://github.com/yoshisman8/

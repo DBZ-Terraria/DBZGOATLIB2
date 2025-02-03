@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Oik4WTBAFhoFRLv3mrPQOVBChHBYo4Rz4he8KX+ItQ02hm40UfIY37czF+zK4EiGzEbP1l1/jC1b548jkFzoww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\The Big Cheese\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\DBZGoatLib2\\DBZGoatLib2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\The Big Cheese\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

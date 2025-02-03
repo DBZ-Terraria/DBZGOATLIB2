@@ -1,0 +1,63 @@
+Mods: {
+	DBZGoatLib2: {
+		Configs: {
+			Headers: {
+				Bar: Ki Bar Settings.
+				Menu: Transformation Menu Settings.
+			}
+
+			KiBarX: {
+				Label: Ki Bar X postion.
+				Tooltip: Ki bar's horizontal position on the screen.
+			}
+
+			KiBarY: {
+				Label: Ki Bar Y postion.
+				Tooltip: Ki bar's vertical position on the screen.
+			}
+
+			ShowKi: {
+				Label: Show Ki values.
+				Tooltip: Show Current/Max Ki at all times.
+			}
+
+			UseNewKiBar: {
+				Label: Use new Ki Bar.
+				Tooltip: Replace DBT's Ki Bar with a new original design.
+			}
+
+			TransMenuX: {
+				Label: Transformation Menu X position.
+				Tooltip: Transformation Menu's horizontal position on the screen.
+			}
+
+			TransMenuY: {
+				Label: Transformation Menu Y position.
+				Tooltip: Transformation Menu's vertical position on the screen.
+			}
+
+			DBZConfig.DisplayName: D B Z Config
+		}
+
+		Keybinds: {
+			RandomBuff.DisplayName: Random Buff
+			"Activate Transformation.DisplayName": Activate  Transformation
+			"Deactive Form/Tech.DisplayName": Deactive  Form/ Tech
+			"Charge Ki.DisplayName": Charge  Ki
+			"Open Transformation/Abilities.DisplayName": Open  Transformation/ Abilities
+			ActivateTransformation.DisplayName: Activate Transformation
+			DeactiveForm&Tech.DisplayName: Deactive Form& Tech
+			ChargeKi.DisplayName: Charge Ki
+			OpenTransformationMenu.DisplayName: Open Transformation Menu
+			ActivateTechnique.DisplayName: Activate Technique
+			"DeactiveForm /Tech.DisplayName": Deactive Form / Tech
+		}
+
+		Buffs: {
+			ExampleTransformationBuff: {
+				DisplayName: Example Transformation Buff
+				Description: Mods.DBZGoatLib2.Buffs.ExampleTransformationBuff.Description
+			}
+		}
+	}
+}
